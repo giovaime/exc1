@@ -8,7 +8,7 @@
       <h3> Foz do Iguaçu, cidade no estado brasileiro do Paraná, é a principal base para visitar as famosas Cataratas do Iguaçu, uma das maiores cachoeiras do mundo. </h3>
       <h4>Este é um cabeçalho de nível 4</h4>
   <style>
-      h4 {color: #000FF}
+      h4 {color: blue}
   </style>
 </html>
 
